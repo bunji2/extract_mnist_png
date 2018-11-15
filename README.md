@@ -36,3 +36,7 @@ extract_mnist_png 1 1
 to save each images.
 
 ![1x1](sample/1x1.png)
+
+# Document:
+
+https://godoc.org/github.com/bunji2/extract_mnist_png/mnist
